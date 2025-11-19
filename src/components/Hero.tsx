@@ -126,7 +126,7 @@ export const Hero = () => {
               className="bg-gradient-to-r from-gradient-start to-gradient-end hover:opacity-90 transition-opacity shadow-lg hover:shadow-xl text-lg px-8"
               asChild
             >
-              <a href="/Alan_Khinkis_Resume.pdf" download>
+              <a href="/Alan-Khinkis-Resume.pdf" download>
                 <Download className="mr-2 h-5 w-5" />
                 View Resume
               </a>
