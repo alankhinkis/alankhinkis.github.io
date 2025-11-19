@@ -3,7 +3,7 @@ name: Deploy Lovable/Vite Site
 on:
   push:
     branches:
-      - main  # Set this to your default branch name (main or master)
+      - master  # Set this to your default branch name (main or master)
 
 permissions:
   contents: read
