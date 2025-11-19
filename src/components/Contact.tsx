@@ -78,13 +78,12 @@ export const Contact = () => {
                 className="hover:border-primary hover:bg-primary/10"
                 asChild
               >
-                <a href="/Alan_Khinkis_Resume.pdf" download>
+                <a href="/Alan-Khinkis-Resume.pdf" download>
                   <Download className="mr-2 h-5 w-5" />
-                  Alan_Khinkis_Resume.pdf
+                  Alan-Khinkis-Resume.pdf
                 </a>
               </Button>
               <p className="text-xs text-muted-foreground">
-                (To site maintainer: Place resume PDF in /public directory)
               </p>
             </div>
           </div>
